@@ -230,6 +230,8 @@ I assume that technical hiring managers will benefit from dedicated project page
 - https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/CAMPUS--Technology-Support-Analyst-I--2027-_JR7831
 - https://www.vultr.com/company/careers/?ashby_jid=130eac96-6ec0-47fb-b57b-357f9ed799a9
 
+I reviewed the three original employer postings and verified their job titles, responsibilities, and technical qualifications. I compared the requirements against my existing academic and personal project experience to determine which projects would be most relevant to my portfolio.
+
 ### Planned Checks
 
 - Verify all portfolio navigation and external links.
@@ -263,3 +265,5 @@ I used ChatGPT to assist with researching job opportunities, comparing career di
 **Next:** Complete peer review, incorporate relevant feedback, finalize supporting project evidence, and begin developing and testing the portfolio during the Build stage.
 
 **Current status:** Plan stage. Portfolio implementation, hosting, and functionality testing have not yet been completed.
+
+# 2. RAG App + Technical Research
